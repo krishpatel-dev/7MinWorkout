@@ -1,1 +1,1 @@
-# 7MinWorkoutApp
+# 7MinWorkout
