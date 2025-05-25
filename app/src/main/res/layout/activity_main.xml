@@ -13,7 +13,7 @@
         app:layout_constraintBottom_toTopOf="@id/flStart"
         android:layout_width="match_parent"
         android:layout_height="220dp"
-        android:contentDescription="@string/image"
+        android:contentDescription="@string/start_image"
         android:src="@drawable/img_main_page" />
 
     <FrameLayout
