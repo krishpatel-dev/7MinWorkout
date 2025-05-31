@@ -39,7 +39,7 @@ class ExerciseStatusAdapter(val items: ArrayList<ExerciseModel>) :
      *
      * This new ViewHolder should be constructed with a new View that can represent the items
      * of the given type. You can either create a new View manually or inflate it from an XML
-     * layout file..
+     * layout file.
      */
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val model: ExerciseModel = items[position]
